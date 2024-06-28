@@ -1,0 +1,34 @@
+.staff-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color:rgb(240, 212, 240);
+    border-radius: 20px;
+    border: 1px solid black;
+    width:500px;
+    margin-left: 380px;
+    margin-top: 40px;
+}
+form{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    color: maroon; 
+}
+
+input{
+    margin-left: 10px;
+    
+}
+.btn{
+   border-radius: 15px;
+   border: 1px solid black;
+   background-color: rgb(150, 228, 150);
+   margin-left: 100px;
+}
+.head{
+    font-size: 24px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
